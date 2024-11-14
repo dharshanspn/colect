@@ -1,5 +1,5 @@
 import json
-from notifier_botty import login_to_chegg, refresh_chegg, telegram_bot_sendtext
+from notifier_botty import login_to_chegg, refresh_chegg, telegram_both_sendtext
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
